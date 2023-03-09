@@ -1,4 +1,4 @@
-package rikkei.academy;
+package TimPhanTuTrongMang;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package rikkei.academy;
+package ChuyenDoiNhietDo;
 
 import java.util.Scanner;
 

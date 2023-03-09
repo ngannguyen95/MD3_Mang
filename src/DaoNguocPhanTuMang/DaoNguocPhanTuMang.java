@@ -1,4 +1,4 @@
-package rikkei.academy;
+package DaoNguocPhanTuMang;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ public class DaoNguocPhanTuMang {
         array = new int[size];
         int i = 0;
         while (i < array.length) {
-            System.out.print("Các phần tử của mảng " + (i + 1) + ": ");
+            System.out.print("Phần tử thứ " + (i + 1) + " của mảng : ");
             array[i] = scanner.nextInt();
             i++;
         }
